@@ -2,7 +2,7 @@
 
 <sub>Hello, world —</sub>
 
-![Apurva Ambre](./apurva-header.svg)
+![Apurva Ambre](./apurva_name_svg.svg)
 
 *Engineer · Builder · Constant Learner*
 
